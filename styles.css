@@ -1,0 +1,45 @@
+.paper {
+    background: lightgrey;
+    padding: 10px;
+    width: 300px; 
+    border-radius: 10px;
+}
+
+.tag {
+    background: red;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    font-family: Staatliches, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-family: Courier New, sans-serif;
+    color: white;
+    font-size: 25px;
+}
+p {
+    background: white;
+    height: 90px;
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2 {
+        margin: 0
+}
+
+h2, p {
+    margin: 0
+}
+
