@@ -2,13 +2,14 @@
     background: lightgrey;
     padding: 10px;
     width: 300px; 
+    height: 250px;
     border-radius: 10px;
     align-items: center;
 }
 
 .tag {
     background: red;
-    height: 200px;
+    height: 250px;
     width: 300px;
     border-radius: 10px;
 }
@@ -29,7 +30,7 @@ h2 {
 }
 p {
     background: white;
-    height: 90px;
+    height: 65px;
     font-family: monospace, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -44,6 +45,10 @@ h1, h2 {
 }
 
 h2, p {
+    margin: 0
+}
+
+p, p {
     margin: 0
 }
 
