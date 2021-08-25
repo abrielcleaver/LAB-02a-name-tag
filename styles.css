@@ -8,7 +8,7 @@
 }
 
 .tag {
-    background: red;
+    background: firebrick;
     height: 250px;
     width: 300px;
     border-radius: 10px;
@@ -29,7 +29,7 @@ h2 {
     font-weight: 200;
 }
 p {
-    background: white;
+    background: pink;
     height: 65px;
     font-family: monospace, sans-serif;
     font-size: 20px;
@@ -48,7 +48,5 @@ h2, p {
     margin: 0
 }
 
-p, p {
-    margin: 0
 }
 
